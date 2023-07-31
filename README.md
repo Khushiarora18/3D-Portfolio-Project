@@ -4,22 +4,28 @@ The 3D Portfolio, built using Three.js, showcases my work in an immersive and in
 # ABOUT PROJECT
 1. The project includes a responsive Navbar component that changes its appearance on scrolling. It features a logo, site name, and navigation links with smooth scroll functionality.
 2. The Hero section showcases an animated greeting and introduces the developer as an aspiring Software Developer and Web Development Enthusiast, complemented by a visually appealing computer-themed canvas animation.
-![Screenshot (88)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/f450d215-3105-48c1-b830-b42d4bd393a8)
+![Screenshot (88)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/e87c5d56-d8f5-4463-97fd-69dcccc9c278)
+
 
 3 . The About section of the project features a captivating and informative layout.A collection of Service Cards, each elegantly animated, showcases specific areas of expertise.
-![Screenshot (89)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/2e37843b-fd00-4bfa-baaf-0b1c727b138b)
+![Screenshot (89)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/e21dc662-62c1-4dde-a293-8fc813194483)
+
 
 4. The Experience section of the project showcases a visually appealing timeline of certifications and workshops. Each event is presented as a timeline element with a corresponding icon and details. The design features a dark theme with a clean layout, allowing users to explore the developer's professional journey in a well-structured and engaging manner.
-![Screenshot (90)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/15844ffa-4e4a-4d2c-8b48-5608aeaea385)
+![Screenshot (90)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/b3892714-c57f-4a81-852a-73e4f1a8f6d9)
+
 
 5. The Tech section of the project presents a visually dynamic display of various technologies using animated ball icons. Each technology is represented by a ball canvas with its corresponding icon, creating an eye-catching and interactive showcase of the developer's skills.
-![Screenshot (91)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/3dcff7e7-0320-4c17-b6d3-0a5cac12df48)
+![Screenshot (91)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/ac7e57dd-accb-4c67-b080-290d62204468)
+
 
 6. The Works section of the project showcases a captivating array of projects, each presented as a project card with details, including project name, description, and tags. Users can explore real-world examples of the developer's work, which demonstrates their various technologies. The interactive cards offer links to both code repositories and live demos, providing a comprehensive overview of the developer's capabilities and project management expertise.
-![Screenshot (94)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/79d85292-7de3-4de3-8fed-8e622ae4c92e)
+![Screenshot (94)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/adfd0669-1fdd-468b-bdf6-17cc8b0a598b)
+
 
 7. The Contact section of the project presents a visually engaging layout with a form for users to get in touch with the developer. The form includes input fields for name, email, and message. Upon submission, the form sends an email using the emailjs library. The design features a sleek black theme and a captivating Earth canvas animation in the background, creating an immersive experience for visitors to reach out to the developer.
-![Screenshot (92)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/09bcf635-5fed-4b09-9a16-aab76e80f5f2)
+![Screenshot (92)](https://github.com/Khushiarora18/3D-Portfolio-Project/assets/91714234/f5d9e008-eb86-430a-b29f-34aa0672339b)
+
 
 
 # React + Vite
